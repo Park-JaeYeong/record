@@ -1,3 +1,3 @@
-1. meet error and problem
-2. find solution and study
-3. record it!
+1. meet error and problem and questions<br>
+2. find solution and study<br>
+3. record it!<br>
